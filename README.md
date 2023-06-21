@@ -19,4 +19,6 @@
 
 react + TypeScript + Tailwind + react-custom-wheel 을 활용한 점심 메뉴에 고민인 직장인들을 위한 점심 메뉴 선정 룰렛
 
+url : https://bongjunk.github.io/foods-roulette/
+
 ![메인이미지](/public/assets/images/project_main.png)
