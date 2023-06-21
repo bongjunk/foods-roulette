@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foods-roulette/static/css/main.91b7745d.css",
+    "main.js": "/foods-roulette/static/js/main.be199d84.js",
+    "static/js/787.c9513cae.chunk.js": "/foods-roulette/static/js/787.c9513cae.chunk.js",
+    "index.html": "/foods-roulette/index.html",
+    "main.91b7745d.css.map": "/foods-roulette/static/css/main.91b7745d.css.map",
+    "main.be199d84.js.map": "/foods-roulette/static/js/main.be199d84.js.map",
+    "787.c9513cae.chunk.js.map": "/foods-roulette/static/js/787.c9513cae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91b7745d.css",
+    "static/js/main.be199d84.js"
+  ]
+}
